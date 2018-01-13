@@ -1,0 +1,6 @@
+D:\OurCompany\UnityProject\ServerAndClient\Server\Server\bin\Debug\Server.exe.config
+D:\OurCompany\UnityProject\ServerAndClient\Server\Server\bin\Debug\Server.exe
+D:\OurCompany\UnityProject\ServerAndClient\Server\Server\bin\Debug\Server.pdb
+D:\OurCompany\UnityProject\ServerAndClient\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\OurCompany\UnityProject\ServerAndClient\Server\Server\obj\Debug\Server.exe
+D:\OurCompany\UnityProject\ServerAndClient\Server\Server\obj\Debug\Server.pdb
